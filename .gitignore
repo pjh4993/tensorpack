@@ -87,3 +87,7 @@ target/
 
 .idea/
 *.diff
+
+dockerfiles/
+datasets/
+outputs/
